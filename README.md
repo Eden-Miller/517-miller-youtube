@@ -29,6 +29,6 @@ This is an example repository to pratice Github's flow.
 
 #### Click the Links Below for a Blast from the Past
 
-[Click if you're feeling brave :)](https://youtu.be/xvFZjo5PgG0?si=vRMR_jV9R9kyCCOU)
+1. [Click if you're feeling brave :)](https://youtu.be/xvFZjo5PgG0?si=vRMR_jV9R9kyCCOU)
 
-[Click if you're feeling REALLY brave :))](https://youtu.be/oHg5SJYRHA0?si=9bkECpoeqhIYHCkb)
+2. [Click if you're feeling REALLY brave :))](https://youtu.be/oHg5SJYRHA0?si=9bkECpoeqhIYHCkb)
